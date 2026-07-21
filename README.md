@@ -14,7 +14,6 @@ By using the App, you agree to this Privacy Policy. If you do not agree, please 
 Pocket Spotter is a mobile application for precision rifle shooters. It stores your DOPE (Data On Previous Engagements) cards, target cards, and related settings primarily on your device.
 
 Privacy contact email: [PocketSpotter@gmail.com]
-Please replace this placeholder with your real contact email before publishing this policy (for example on your website or Google Play listing).
 
 If you have questions about this Privacy Policy or your information, contact us at the email above.
 
